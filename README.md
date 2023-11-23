@@ -1,1 +1,1 @@
-[![Логотип](assets/logo.png)](assets/logo.png)
+[![Логотип](assets/logo.png)](logo.png)
