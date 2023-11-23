@@ -6,7 +6,7 @@ https://minter.ton.org/?testnet=true
 {
   "name": "Tests Coins Tim",
   "description": "Learning",
-  "image": "",
+  "image": "https://github.com/sidnintv/assets/blob/main/logo.png",
   "symbol": "TCT",
   "decimals": "9"
 }
